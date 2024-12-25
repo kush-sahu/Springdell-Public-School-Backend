@@ -1,4 +1,5 @@
 # School Management System  
+<img src="School Management UI.png" alt="School Dashboard " width="600">
 
 ## Overview  
 The **School Management System** is a web-based application developed using the **Spring Boot Framework** and **MySQL database**. This system helps manage various administrative and operational tasks for schools, including student enrollment, teacher assignments, class scheduling, and performance tracking.  
